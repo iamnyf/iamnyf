@@ -1,3 +1,5 @@
+<img src="banner_nyf.jpg" alt="GitHub Banner" width="100%" />
+
 <h1 align="left">Hello world, I'm Nyf, A front-end developer 👋</h1>
 
 ###
