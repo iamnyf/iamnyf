@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🛜 currently working on my own [bio page](https://nyff.xyz)<br>👨🏼‍🎓 I'm in my 5 year of pre-university education (VWO) in the Netherlands, which is similar to 11th grade in the U.S<br>👨🏼‍💻 Programming since 2019<br>💻 Currently learning Ruby and C#</p>
+<p align="left">🛜 currently working on my own <a href="https://nyff.xyz">bio page</a><br>👨🏼‍🎓 I'm in my 5 year of pre-university education (VWO) in the Netherlands, which is similar to 11th grade in the U.S<br>👨🏼‍💻 Programming since 2019<br>💻 Currently learning Ruby and C#</p>
 
 ###
 
